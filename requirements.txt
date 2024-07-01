@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+sqlalchemy
+pymysql
+seaborn
+cryptography
+flask
+scikit-learn
+joblib
+openpyxl
