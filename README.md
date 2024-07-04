@@ -93,6 +93,12 @@ EduCluster is a data-driven application designed to assist international student
 #### Success Route (/success)
     Handles file upload, processes the data, performs clustering, and displays the results.
 
+![Web app](image.png)
+
+![Solution](Solution.png)
+
+
+
 
 ## Clustering Results
 
