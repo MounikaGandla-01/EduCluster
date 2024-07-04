@@ -9,4 +9,3 @@ flask
 scikit-learn
 joblib
 openpyxl
-gunicorn
